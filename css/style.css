@@ -1144,7 +1144,7 @@ body.dark .contact-info-item:hover {
 /* Specific hover effect for the second project card */
 #projects--container .portfolio-item-zoom .project-image {
   transition: transform 0.3s ease;
-  transform: scale(1.035) scaleY(0.95)
+  transform: scale(1.035) scaleX(1.010) scaleY(0.95)
 }
 
 #projects--container .portfolio-item-zoom:hover .project-image {
