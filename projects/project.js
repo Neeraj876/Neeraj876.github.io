@@ -1,7 +1,7 @@
 const Projects = [
     {
         name : "MLOps Solution for Network Security",
-        about : "Developed a system to identify and classify malicious URLs, enhancing web application security by enabling efficient detection and classification of harmful links. The system helps proactively mitigate potential threats, ensuring better protection against web-based attacks.",
+        about : "Developed a system to identify and classify malicious URLs, enhancing web application security by enabling efficient detection and classification of harmful links to proactively mitigate potential threats.",
         img : "images/network_architecture.gif",
         gitrepo : "https://github.com/Neeraj876/network-security-system-mlop",
         tech_stack : "AWS | Docker | Airflow | MLFlow | FastAPI | MongoDB | Streamlit | Github Actions",
