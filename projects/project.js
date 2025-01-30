@@ -1,7 +1,7 @@
 const Projects = [
     {
         name : "MLOps Solution for Network Security",
-        about : "A comprehensive end-to-end MLOps solution to detect and classify malicious URLs using machine learning, with real-time and batch assessments for enhanced web security.",
+        about : "Developed a system to identify and classify malicious URLs, enhancing web application security by enabling efficient detection and classification of harmful links. The system helps proactively mitigate potential threats, ensuring better protection against web-based attacks.",
         img : "images/network_architecture.gif",
         gitrepo : "https://github.com/Neeraj876/network-security-system-mlop",
         tech_stack : "AWS | Docker | Airflow | MLFlow | FastAPI | MongoDB | Streamlit | Github Actions",
@@ -36,7 +36,7 @@ const Projects = [
     },
     {
         name : "Machine Predictive Maintenance Classification Using MLOps",
-        about : "Automates machine predictive maintenance to identify machine failures. It leverages MLOps tools for accurate model deployment, real-time predictions, and actionable business insights.",
+        about : "Developed a system to predict and classify machine failure types, improving operational efficiency by enabling early detection, allowing businesses to proactively manage maintenance and minimize downtime.",
         img : "images/architecture.gif",
         gitrepo : "https://github.com/Neeraj876/machine-predictive-maintenance-mlops",
         // blog : "https://medium.com/@vdbhavani.648/specsmakers-clone-8e0434e3ed0e",
