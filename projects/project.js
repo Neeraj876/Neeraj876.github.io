@@ -33,7 +33,7 @@ const Projects = [
     },
     {
         name : "Machine Predictive Maintenance Classification MLOps System",
-        about : "Developed an end-to-end MLOps pipeline for predictive maintenance to significantly reduce machine downtime. Implemented a robust deployment strategy using Azure Web App, ensuring 99.9% uptime and seamless accessibility.",
+        about : "Developed an end-to-end MLOps pipeline for predictive maintenance to significantly reduce machine downtime. Implemented a robust deployment strategy ensuring 99.9% uptime in production.",
         img : "images/machine_architecture.gif",
         gitrepo : "https://github.com/Neeraj876/machine-predictive-maintenance-mlops",
         tech_stack : "HTML | CSS | JAVASCRIPT | API | JSON-SERVER",
