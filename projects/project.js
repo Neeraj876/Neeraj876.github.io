@@ -1,7 +1,7 @@
 const Projects = [
     {
         name : "MLOps System for Network Security",
-        about : "Developed a production-ready MLOps pipeline for malicious URL detection, achieving a 97.6% F1-score, significantly reducing cybersecurity threats. Deployed a robust, real-time batch prediction system with FastAPI, delivering 35% faster inference.",
+        about : "Developed a production-ready MLOps pipeline for malicious URL detection to significantly reduce cybersecurity threats. Deployed a robust, real-time batch prediction system with FastAPI, delivering 35% faster inference.",
         img : "images/network_architecture.gif",
         gitrepo : "https://github.com/Neeraj876/network-security-system-mlop",
         tech_stack : "AWS | Docker | Airflow | MLFlow | FastAPI | MongoDB | Streamlit | Github Actions",
@@ -36,7 +36,7 @@ const Projects = [
     },
     {
         name : "MLOps System for Machine Predictive Maintenance Classification",
-        about : "Developed an end-to-end MLOps pipeline for predictive maintenance, achieving a 96.4% F1-score and significantly reducing machine downtime. Implemented a robust deployment strategy using Azure Web App, ensuring 99.9% uptime and seamless accessibility.",
+        about : "Developed an end-to-end MLOps pipeline for predictive maintenance to significantly reduce machine downtime. Implemented a robust deployment strategy using Azure Web App, ensuring 99.9% uptime and seamless accessibility.",
         img : "images/machine_architecture.gif",
         gitrepo : "https://github.com/Neeraj876/machine-predictive-maintenance-mlops",
         // blog : "https://medium.com/@vdbhavani.648/specsmakers-clone-8e0434e3ed0e",
