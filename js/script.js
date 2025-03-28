@@ -1,6 +1,6 @@
 /* ============================== typing animation ============================ */
 var typed = new Typed(".typing",{
-    strings:["","MLOps Engineer","Data Scientist","GenAI Engineer","ML Engineer"],
+    strings:["","MLOps Engineer", "ML Engineer"],
     typeSpeed:100,
     BackSpeed:60,
     loop:true
