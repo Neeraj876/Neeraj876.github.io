@@ -15,7 +15,6 @@ const Projects = [
             `<img width="48" height="48" src="https://img.icons8.com/color/48/streamlit.png"/>`,
             `<img width="50" height="50" src="https://img.icons8.com/arcade/64/github.png"/>`,
         ],
-        // project_link : "https://agoda-clone-website.vercel.app/",
         project_type : "Individual Project"
     },
     {
@@ -23,7 +22,6 @@ const Projects = [
         about : "Built an end-to-end deep learning project With SimpleRNN for Sentiment Analysis, with real-time predictions",
         img : "images/simplernn.png",
         gitrepo : "https://github.com/Neeraj876/ANN-customer-churn-classification",
-        // blog : "https://medium.com/@suraj.devere/shop4reebok-clone-eddfa7c32fe7",
         tech_stack : "HTML | CSS | JAVASCRIPT",
         tech_stackicons : [
             `<img width="48" height="48" src="images/TensorFlow.png" />`,
@@ -31,7 +29,6 @@ const Projects = [
             `<img width="48" height="48" src="https://img.icons8.com/material-outlined/48/FA5252/keras.png"/>`,
             
         ],
-        // project_link : "https://rebookwebsite-clone1.vercel.app/",
         project_type : "Individual Project"
     },
     {
@@ -39,7 +36,6 @@ const Projects = [
         about : "Developed an end-to-end MLOps pipeline for predictive maintenance to significantly reduce machine downtime. Implemented a robust deployment strategy using Azure Web App, ensuring 99.9% uptime and seamless accessibility.",
         img : "images/machine_architecture.gif",
         gitrepo : "https://github.com/Neeraj876/machine-predictive-maintenance-mlops",
-        // blog : "https://medium.com/@vdbhavani.648/specsmakers-clone-8e0434e3ed0e",
         tech_stack : "HTML | CSS | JAVASCRIPT | API | JSON-SERVER",
         tech_stackicons : [
         `<img width="48" height="48" src="https://img.icons8.com/nolan/64/amazon-web-services.png"/>`,
@@ -50,7 +46,6 @@ const Projects = [
          `<img width="48" height="48" src="https://img.icons8.com/nolan/64/flask.png" alt="flask"/>`,
          `<img width="48" height="48" src="https://img.icons8.com/color/50/000000/mongodb.png"/>`
         ],
-        // project_link : "https://tender-hoover-a53af4.netlify.app/",
         project_type : "Individual Project"
     },
 ]
