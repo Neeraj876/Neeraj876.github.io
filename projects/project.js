@@ -32,7 +32,7 @@ const Projects = [
         project_type : "Individual Project"
     },
     {
-        name : "MLOps System for Machine Predictive Maintenance Classification",
+        name : "Machine Predictive Maintenance Classification MLOps System",
         about : "Developed an end-to-end MLOps pipeline for predictive maintenance to significantly reduce machine downtime. Implemented a robust deployment strategy using Azure Web App, ensuring 99.9% uptime and seamless accessibility.",
         img : "images/machine_architecture.gif",
         gitrepo : "https://github.com/Neeraj876/machine-predictive-maintenance-mlops",
